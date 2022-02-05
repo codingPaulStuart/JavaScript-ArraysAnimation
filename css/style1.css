@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 5px;
+    margin: 10px;
+}
+
+table,
+th,
+td {
+    margin: 50px auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
